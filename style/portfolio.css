@@ -138,3 +138,11 @@ main{
 .aboutinfo{
     text-align: center;
 }
+
+#whatidodescription{
+    padding: 30px 150px;
+
+}
+.skills-container{
+    display: flex;
+}
