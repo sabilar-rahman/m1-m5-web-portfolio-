@@ -98,7 +98,7 @@ nav a {
 
 
 /* Main section styles */
-main{
+main {
     width: 1300px;
     margin: 0 auto;
 }
@@ -110,7 +110,7 @@ main{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin:140px ;
+    margin: 140px;
 }
 
 .section-title {
@@ -130,19 +130,51 @@ main{
 
 }
 
-.aboutinfo-container{
+.aboutinfo-container {
     display: flex;
     justify-content: space-around;
 
 }
-.aboutinfo{
+
+.aboutinfo {
     text-align: center;
 }
 
-#whatidodescription{
+
+/* skill related container */
+
+#whatidodescription {
     padding: 30px 150px;
 
 }
-.skills-container{
+
+.skills-container {
     display: flex;
+}
+
+.skill {
+    padding: 30px;
+    gap: 24px;
+}
+
+.skill-description {
+    
+}
+
+
+.resume-container {
+
+}
+
+.resume-column {
+
+}
+
+.resume-column-title {
+    color: #474747;
+
+    font-size: 30px;
+
+    font-weight: 700;
+
 }
